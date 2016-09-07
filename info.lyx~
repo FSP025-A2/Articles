@@ -1,0 +1,540 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+%Premeble
+\setlength{\parindent}{2cm}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Bulunga Data
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Population
+\end_layout
+
+\begin_layout Standard
+Population Census 2012-08-26 Bulongwa Rural Ward ...
+ 3,824 inhabitantes.
+ 
+\end_layout
+
+\begin_layout Subsection
+Sources
+\end_layout
+
+\begin_layout Standard
+City population bulongwa, population:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "10pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.citypopulation.de/php/tanzania-southernhighlands-admin.php?adm2id=220306
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Area
+\end_layout
+
+\begin_layout Standard
+From sources:
+\end_layout
+
+\begin_layout Standard
+Area: 38.17 km² – Density: 100.2 inh./km² [2012]
+\end_layout
+
+\begin_layout Subsection
+Sources
+\end_layout
+
+\begin_layout Standard
+City population bulongwa, area
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "10pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.citypopulation.de/php/tanzania-southernhighlands-admin.php?adm2id=220306
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Google Maps:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "10pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.google.se/maps/place/Bulungwa,+Tanzania/@-4.0390802,32.222818,564m/data=
+!3m1!1e3!4m5!3m4!1s0x19c836ff0b6b98b1:0xab34f79499bbe3e2!8m2!3d-4.038431!4d32.2231
+219
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Livelihood
+\end_layout
+
+\begin_layout Standard
+There is not much said about bulungwa on the internetz, however this i said
+ about makete district which bulungwa is a ward in.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+Agriculture provides the livelihood of most people in Makete District.
+ Because of the temperate climate, wheat and potatoes are widely cultivated;
+ they are often intercropped with pumpkin, Phaseolus beans and peas.
+ Because of the temperate climate, also fruit trees, such as plums, peaches,
+ apples and pears, are being cropped in the district.
+ The region is well known for its bamboo wine (ulanzi), which is prepared
+ from the fermented juice of the wine bamboo (Oxytenanthera).[6] People from
+ Makete District traditionally worked as pluckers on tea plantations of
+ the country.
+ Maize has only recently been introduced.
+ Diverse livestock species are held.[7] While cattle are usually kept on
+ communal grazing land, goats, pigs and poultry are reared close to the
+ homesteads.
+ Inside the houses, a large proportion of the rural population also keeps
+ domestic cavies (i.e., Guinea pig, Cavia porcellus) for meat production,
+ although they are rarely mentioned in statistics.
+ Locally, the animals are called simbilisi, which is a Kihehe word.
+ In Makete District, cavies are largely fed with bamboo leaves.
+\begin_inset Quotes erd
+\end_inset
+
+ - wikipedia
+\end_layout
+
+\begin_layout Standard
+The local agriculture farms structure seems to be spread out and not centralized.
+ Pixs:
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename Bulungwa.jpg
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Sources
+\end_layout
+
+\begin_layout Standard
+Makete District wikipedia.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://en.wikipedia.org/wiki/Makete_District
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Area and population of ward:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.citypopulation.de/php/tanzania-admin.php?adm2id=2203
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Growth
+\end_layout
+
+\begin_layout Standard
+Makete District:
+\end_layout
+
+\begin_layout Standard
+Area: 3,996.39 km² – Density: 24.3 inh./km² [2012] – Change: -0.83%/year [2002
+ → 2012]
+\end_layout
+
+\begin_layout Subsection
+Sources
+\end_layout
+
+\begin_layout Standard
+Tanzania:
+\end_layout
+
+\begin_layout Standard
+World Bank Plan:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.worldbank.org/en/country/tanzania/overview
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Economic Growth:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "80col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.1pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.tradingeconomics.com/tanzania/gdp-growth-annual/forecast
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
